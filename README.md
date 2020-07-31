@@ -2,7 +2,7 @@
 
 <h2 align="center"><img src=assets/img/whiskey-drop.png></h2>
 
-[View the live project here.](https://lucyjpjones.github.io/love-running-project/)
+[View the live project here.](https://lucyjpjones.github.io/whiskey-drop-project/)
 
 #### A fully responsive website developed using Bootstrap 4.
 
